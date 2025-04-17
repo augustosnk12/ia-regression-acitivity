@@ -57,6 +57,9 @@ cd ai-regression-activity
 ```
 
 2. Install Python dependencies
+```bash
+pip install pandas scikit-learn flask flask-cors joblib
+```
 
 3. Run the training script
 ```bash
