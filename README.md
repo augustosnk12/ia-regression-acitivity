@@ -1,4 +1,4 @@
-# 📊 AI Regression Activity
+# 📊 AI Regression Activity - INSPA Academy
 
 This project demonstrates a complete machine learning workflow using **Linear Regression** to predict apartment rental prices based on real-world features. The goal is to show how to go from data analysis to a deployable REST API with a connected frontend.
 
